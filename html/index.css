@@ -2,7 +2,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: linear-gradient(#6800FF, #FFAE00);
+    background: linear(#6800FF, #FFAE00);
     height: 100vh;
 }
 .box{
@@ -32,7 +32,7 @@ body{
     padding: 5px;
     margin: 5px;
     width: 80%;
-    text-align: center;
+    text-align: left;
 }
 .lgn-pass{
     background: none;
@@ -42,7 +42,7 @@ body{
     padding: 5px;
     margin: 5px;
     width: 80%;
-    text-align: center;
+    text-align: left;
 }.lgn-btt{
     position: relative;
     background: none;
