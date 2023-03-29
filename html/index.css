@@ -1,0 +1,53 @@
+@import    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css";
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#6800FF, #FFAE00);
+    height: 100vh;
+}
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    background: white;
+}
+.box h2{
+    margin-top: 20px;
+}
+.box i{
+    position: relative;
+    left: 30px;
+}
+.lgn-user{
+    background: none;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    width: 80%;
+    text-align: center;
+}
+.lgn-pass{
+    background: none;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    width: 80%;
+    text-align: center;
+}.lgn-btt{
+    position: relative;
+    background: none;
+    border-radius: 15px;
+    padding: 7px;
+    margin: 20px;
+    width: 60%;
+}
