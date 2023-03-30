@@ -5,6 +5,9 @@ body{
     background: linear-gradient(#6800FF, #FFAE00);
     height: 100vh;
 }
+.box h1{
+    position: absolute;
+}
 .box{
     position: absolute;
     top: 50%;
