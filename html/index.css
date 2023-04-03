@@ -6,9 +6,7 @@ body{
     height: 100vh;
 }
 .h1 {
-    position: relative;
-    top: 20%;
-    left: 50%;
+    text-align: center;
 }
 .box{
     position: absolute;
