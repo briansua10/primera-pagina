@@ -5,6 +5,11 @@ body{
     background: linear-gradient(#ffd000, #1706ac);
     height: 100vh;
 }
+.h1 {
+    position: relative;
+    top: 20%;
+    left: 50%;
+}
 .box{
     position: absolute;
     top: 50%;
